@@ -1,0 +1,2 @@
+beginner_tutorials:puzzlebot_sim:ros_stack_sim_jackal:slm_sim
+-DCATKIN_DEVEL_PREFIX=/home/edu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/edu/catkin_ws/install -G Unix Makefiles

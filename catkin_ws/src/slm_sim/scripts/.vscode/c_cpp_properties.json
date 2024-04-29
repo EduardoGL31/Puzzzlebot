@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/edu/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/edu/puzzlebot_ws/src/puzzlebot_control/include/**",
+        "/home/edu/puzzlebot_ws/src/puzzlebot_examples/include/**",
+        "/home/edu/puzzlebot_ws/src/puzzlebot_rviz/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
